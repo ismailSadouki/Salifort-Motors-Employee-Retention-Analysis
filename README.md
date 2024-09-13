@@ -4,10 +4,12 @@
 Salifort Motors aims to improve employee retention by identifying the factors that contribute to employee attrition. The primary question is: **What is likely to make an employee leave the company?** This project uses machine learning models to predict employee turnover and provide actionable insights to help the HR department improve retention.
 
 ### [Summary PDF](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/summary.pdf)
+
 ### [Jupyter Notebook](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/jupyter-notebook/Providing Suggestions for HR at Salifort Motors.ipynb)
+
 ### [Jupyter-notebook PDF](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/jupyter-notebook.pdf)
 
-###[Data](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
+### [Data](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)
 ## Dataset
 The dataset used includes key features such as:
 - **Last Evaluation**: Employee's last performance review score.

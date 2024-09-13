@@ -5,7 +5,7 @@ Salifort Motors aims to improve employee retention by identifying the factors th
 
 ### [Summary PDF](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/summary.pdf)
 
-### [Jupyter Notebook](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/jupyter-notebook/Providing Suggestions for HR at Salifort Motors.ipynb)
+### [Jupyter Notebook](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/jupyter-notebook/Providing%20Suggestions%20for%20HR%20at%20Salifort%20Motors.ipynb)
 
 ### [Jupyter-notebook PDF](https://github.com/ismailSadouki/Salifort-Motors-Employee-Retention-Analysis/blob/main/jupyter-notebook.pdf)
 
